@@ -12,7 +12,7 @@
 
 ```
 cloudlens/
-  SPEC.md
+  Readme.md
   backend/
     app/
       main.py               # FastAPI app factory, CORS, middleware, routers
