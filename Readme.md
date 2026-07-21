@@ -11,8 +11,8 @@
 ## Directory layout
 
 ```
+Readme.md
 cloudlens/
-  Readme.md
   backend/
     app/
       main.py               # FastAPI app factory, CORS, middleware, routers
