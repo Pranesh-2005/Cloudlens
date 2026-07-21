@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Env files
+.env
+.env.local
+*.env
+*.langgraph_checkpoints.db-shm
+*.langgraph_checkpoints.db-wal
+# Local SQLite fallback DB
+*.db
+*.sqlite3
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+AGENTS.md
+CLAUDE.md
+# Editor/OS
+.DS_Store
